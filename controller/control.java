@@ -264,7 +264,6 @@ public class control {
 //            String newstr = null;
 //            if(part2=="π"){
 //                newstr="180";
-//            }
             if(Objects.equals(part2, "π")){
                 part2="0";
             }else if(Objects.equals(part2, "180")){
