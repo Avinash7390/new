@@ -1,3 +1,4 @@
+//connecting project with mysql database
 package model;
 import javafx.stage.Stage;
 
